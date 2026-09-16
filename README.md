@@ -139,9 +139,8 @@ También estoy ampliando mis conocimientos hacia el ecosistema **.NET y C#**.
 
 ## Conectemos
 
-**Portfolio:** 28Emc Portfolio
-**LinkedIn:** Edinson Medina Chinga
-**GitHub:** 28Emc
+**Portfolio:** [`28Emc Portfolio`](https://28emc.github.io/portfolio)
+**LinkedIn:** [`Edinson Medina Chinga`](https://www.linkedin.com/in/edinson-medina-chinga)
 
 ---
 
