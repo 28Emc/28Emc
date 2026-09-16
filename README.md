@@ -24,7 +24,7 @@ Me interesa trabajar a lo largo de todo el stack: desde la construcción de inte
 
 ## Proyectos destacados
 
-### `ng-ui`
+### [`ng-ui`](https://github.com/28Emc/ng-ui)
 
 Librería de componentes UI para Angular enfocada en construir componentes reutilizables, accesibles y mantenibles.
 
@@ -32,7 +32,7 @@ Librería de componentes UI para Angular enfocada en construir componentes reuti
 
 ---
 
-### `emc-ui`
+### [`emc-ui`](https://github.com/28Emc/emc-ui)
 
 Librería de Web Components independiente de framework, diseñada para proporcionar componentes UI reutilizables en diferentes aplicaciones y tecnologías web.
 
@@ -40,7 +40,7 @@ Librería de Web Components independiente de framework, diseñada para proporcio
 
 ---
 
-### `eTribunal`
+### [`eTribunal`](https://github.com/28Emc/etribunal-platform)
 
 Proyecto académico y sin fines de lucro inspirado en una aplicación real que anteriormente desarrollé para un cliente.
 
@@ -48,13 +48,14 @@ El proyecto original utilizaba un **backend monolítico desarrollado con NestJS 
 
 Para eTribunal, retomé la idea y el dominio general de la aplicación como punto de partida para explorar una arquitectura más robusta y escalable, evolucionando el enfoque hacia **microservicios y comunicación orientada a eventos**.
 
-El proyecto también representa un espacio práctico para continuar desarrollando mis conocimientos de **React**, mientras aplico tecnologías y patrones modernos de backend con Java y Spring Boot.
+El proyecto también representa un espacio práctico para continuar desarrollando mis conocimientos de **React** ([`etribunal-ui`](https://github.com/28Emc/etribunal-ui)), mientras aplico tecnologías y patrones modernos de backend con Java y Spring Boot 
+([`eTribunal-platform`](https://github.com/28Emc/etribunal-platform)).
 
 **React · TypeScript · Java · Spring Boot · Microservices · Kafka · PostgreSQL · Docker**
 
 ---
 
-### `SGCC`
+### [`SGCC`](https://github.com/28Emc/sgcc)
 
 Aplicación desarrollada para automatizar la gestión y cálculo de cobros asociados al consumo de servicios compartidos.
 
@@ -64,7 +65,7 @@ El proyecto parte de un problema real y se enfoca en modelar las reglas de negoc
 
 ---
 
-### `igo-courier`
+### [`igo-courier-clone`](https://github.com/28Emc/igo-courier-clone)
 
 Proyecto basado en una experiencia real de desarrollo para una plataforma de gestión de entregas mediante delivery.
 
@@ -78,7 +79,7 @@ El proyecto me permite comparar diferentes enfoques de desarrollo frontend y eva
 
 ---
 
-### `Portfolio`
+### [`portfolio`](https://github.com/28Emc/portfolio)
 
 Mi portfolio personal desarrollado con Astro y TypeScript, aplicando prácticas modernas de frontend, internacionalización, accesibilidad, SEO, optimización de imágenes y rendimiento.
 
